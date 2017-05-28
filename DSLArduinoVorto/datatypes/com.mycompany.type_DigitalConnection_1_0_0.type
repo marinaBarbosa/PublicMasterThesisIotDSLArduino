@@ -1,0 +1,8 @@
+namespace com.mycompany.type
+version 1.0.0
+displayname "DigitalConnection"
+description "Type for DigitalConnection"
+category demo		
+entity DigitalConnection {
+	//Enter entity details
+}
